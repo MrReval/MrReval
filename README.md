@@ -15,8 +15,7 @@
 
 - ⚡ Fun fact **I have no funny facts ):**
 
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=php,mysql,mongodb,firebase,mongodb,git,docker,c,cpp,csharp,python,js,html,css&includeNames=true&theme=nautilus)](https://github.com/MrReval)
-[![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,tailwind,bootstrap,vue,angular,react&includeNames=true&theme=nautilus)](https://github.com/MrReval)
-[![Libraries](https://github-widgetbox.vercel.app/api/skills?libraries=jquery&includeNames=true&theme=nautilus)](https://github.com/MrReval)
-[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,wordpress,woocommerce,apache,nginx&includeNames=true&theme=nautilus)](https://github.com/MrReval)
+[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=java,php,mysql,mongodb,firebase,git,docker,c,cpp,csharp,python,js,html,css&includeNames=true&theme=nautilus)](https://github.com/MrReval)
+[![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,flask,django,tailwind,react&includeNames=true&theme=nautilus)](https://github.com/MrReval)
+[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=nodejs,heroku,apache,nginx,gradle&includeNames=true&theme=nautilus)](https://github.com/MrReval)
 
