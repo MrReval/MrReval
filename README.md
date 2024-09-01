@@ -1,7 +1,7 @@
+[![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=MrReval&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MrReval)
+
 <h1 align="center">Hi 👋, I'm Mohammad Azad</h1>
 <h3 align="center">A passionate Back-End developer from IRAN</h3>
-
-[![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=MrReval&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MrReval)
 
 - 🔭 I’m currently working on [Dubz](https://Dubz.ir)
 
