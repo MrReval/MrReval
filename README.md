@@ -1,19 +1,39 @@
 [![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=MrReval&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/MrReval)
 
 <h1 align="center">Hi 👋, I'm Mohammad Azad</h1>
-<h3 align="center">A passionate Back-End developer from IRAN</h3>
 
-- 🔭 I’m currently working on [Dubz](https://Dubz.ir)
+## About Me 🚀  
+Hey there! I'm Mohammad Azad, a **Backend Developer** & **DevOps Engineer** who dabbles in Android development too! 😄  
 
-- 🌱 I’m currently learning **Next.js**
+- 🛠 **Experience**:  
+  I’ve been coding for **6-7 years**, with **5 years** of serious, professional development under my belt.  
 
-- 👯 I’m looking to collaborate on [Telegram](telegram.org)
+- 💼 **Current Role**:  
+  I’m currently working at **Sama Holding**, contributing to an awesome platform called **Dubz**.  
 
-- 💬 Ask me about **Php, Java Android, Python**
+- 🌟 **Proud Achievement**:  
+  One of my biggest projects was creating a **text-based social media platform** similar to Twitter called **Toeino**.  
+  - Built from scratch: **Server management**, **optimized architecture design**, **backend development**, and even the **Android client** were all my responsibility.  
+  - 🚀 Results: In just **6 months**, the platform gained over **100,000 active users**!  
 
-- 📫 How to reach me **Dev@ImNapster.ir**
+---
 
-- ⚡ Fun fact **I have no funny facts ):**
+## Why I'm Here 🤖  
+Lately, I’ve developed a passion for **open source** and love contributing to cool projects.  
+If you find any of my repos useful, don’t forget to **⭐ Star them**! (Though, yeah... my profile is still waiting for its first public repo 😂).  
+
+---
+
+## Let's Connect 🌐  
+- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 💼 LinkedIn: [LinkedIn Profile](#)  
+- 🐦 Twitter: [Twitter Profile](#)  
+
+---
+
+## Coming Soon... ⏳  
+I’m planning to upload some amazing projects soon. Stay tuned and let’s build something great together!  
+
 
 [![Languages](https://github-widgetbox.vercel.app/api/skills?languages=java,php,mysql,mongodb,firebase,git,docker,c,cpp,csharp,python,js,html,css&includeNames=true&theme=nautilus)](https://github.com/MrReval)
 [![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,django&includeNames=true&theme=nautilus)](https://github.com/MrReval)
