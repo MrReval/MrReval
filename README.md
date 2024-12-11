@@ -12,7 +12,7 @@ Hey there! I'm Mohammad Azad, a **Backend Developer** & **DevOps Engineer** who 
   I’m currently working at **Sama Holding**, contributing to an awesome platform called **Dubz**.  
 
 - 🌟 **Proud Achievement**:  
-  One of my biggest projects was creating a **text-based social media platform** similar to Twitter called **Toeino**.  
+  One of my biggest projects was creating a **text-based social media platform** similar to Twitter called **Tooino**.  
   - Built from scratch: **Server management**, **optimized architecture design**, **backend development**, and even the **Android client** were all my responsibility.  
   - 🚀 Results: In just **6 months**, the platform gained over **100,000 active users**!  
 
@@ -25,7 +25,7 @@ If you find any of my repos useful, don’t forget to **⭐ Star them**! (Though
 ---
 
 ## Let's Connect 🌐  
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 📧 Email: [DEV@ImNapster.ir](mailto:YourEmail@example.com)  
 - 💼 LinkedIn: [LinkedIn Profile](#)  
 - 🐦 Twitter: [Twitter Profile](#)  
 
@@ -33,7 +33,6 @@ If you find any of my repos useful, don’t forget to **⭐ Star them**! (Though
 
 ## Coming Soon... ⏳  
 I’m planning to upload some amazing projects soon. Stay tuned and let’s build something great together!  
-
 
 [![Languages](https://github-widgetbox.vercel.app/api/skills?languages=java,php,mysql,mongodb,firebase,git,docker,c,cpp,csharp,python,js,html,css&includeNames=true&theme=nautilus)](https://github.com/MrReval)
 [![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=laravel,django&includeNames=true&theme=nautilus)](https://github.com/MrReval)
